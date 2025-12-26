@@ -12,3 +12,5 @@ spring:
         jwt:
           issuer-uri: http://localhost:9000
 
+jwt:
+  secret: my-very-long-super-secret-key-for-jwt-hmac-which-is-more-than-64-chars-1234567890
