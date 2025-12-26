@@ -5,5 +5,4 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/users-db
-jwt:
-  secret: my-very-long-super-secret-key-for-jwt-hmac-which-is-more-than-64-chars-1234567890
+
